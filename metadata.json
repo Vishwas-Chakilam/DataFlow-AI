@@ -1,0 +1,5 @@
+{
+  "name": "DataFlow AI",
+  "description": "An Apple-inspired, automated Machine Learning platform for non-tech users. Upload datasets, clean, model, train, and predict using AI-driven insights.",
+  "requestFramePermissions": []
+}
